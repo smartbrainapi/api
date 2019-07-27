@@ -1,0 +1,10 @@
+.tagsss {
+  background: white;
+  cursor: pointer;
+}
+.tag-box {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  padding: 0;
+}
